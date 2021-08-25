@@ -2,8 +2,11 @@
  A project which will allow users with certain hardware to detect and monitor RF Power levels around them.
  
 📱Devices Required:📱
+
  Arduino Uno
+ 
  MikroE Ardunio Uno Ciick Shield
+ 
  MikroE 2034 RF Power Meter Click
  
  How to Run:
